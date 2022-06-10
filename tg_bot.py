@@ -49,7 +49,7 @@ async def start(message: types.Message):
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
     keyboard.add(*start_buttons)
 
-    await message.answer("Лента новостей", reply_markup=keyboard)
+    await message.answer("Здравствуйте! Чтобы получить свой первый набор свежих новостей, обновите их список нужной командой.", reply_markup=keyboard)
 
 
 @dp.message_handler(Text(equals="Все новости"))
