@@ -45,7 +45,7 @@ async def on_shutdown(dispatcher):
 
 @dp.message_handler(commands="start")
 async def start(message: types.Message):
-    start_buttons = ["Все новости", "Последние пять новостей", "Свежие новости"]
+    start_buttons = ["Все новости", "Последние пять новостей", "Обновить список новостей"]
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
     keyboard.add(*start_buttons)
 
@@ -76,7 +76,7 @@ async def get_last_five_news(message: types.Message):
         await message.answer(news)
 
 
-@dp.message_handler(Text(equals="Свежие новости"))
+@dp.message_handler(Text(equals="Обновить список новостей"))
 async def get_fresh_news(message: types.Message):
     fresh_news = check_news_update()
 
@@ -85,10 +85,7 @@ async def get_fresh_news(message: types.Message):
             news = f"{hbold(v['article_date_time'])}\n\n" \
                    f"{hlink(v['article_title'], v['article_url'])}\n\n"
 
-            await message.answer(news)
-
-    else:
-        await message.answer("Свежих новостей пока нет.")
+            # await message.answer(news)
 
 
 if __name__ == '__main__':
