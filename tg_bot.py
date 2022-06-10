@@ -80,7 +80,7 @@ async def get_last_five_news(message: types.Message):
 async def get_fresh_news(message: types.Message):
     fresh_news = check_news_update()
 
-    if len(fresh_news) >= 1:
+    if len(fresh_news) != 0:
         for k, v in sorted(fresh_news.items()):
             news = f"{hbold(v['article_date_time'])}\n\n" \
                    f"{hlink(v['article_title'], v['article_url'])}\n\n"
@@ -88,7 +88,7 @@ async def get_fresh_news(message: types.Message):
             await message.answer(news)
 
     else:
-        await message.answer("Свежих новостей пока нет")
+        await message.answer("Свежих новостей пока нет.")
 
 
 if __name__ == '__main__':
