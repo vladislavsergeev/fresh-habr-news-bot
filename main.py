@@ -85,7 +85,6 @@ def check_news_update():
 
 def main():
     get_first_news()
-    check_news_update()
 
 
 if __name__ == '__main__':
