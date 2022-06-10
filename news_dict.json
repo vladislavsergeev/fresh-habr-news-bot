@@ -1,102 +1,102 @@
 {
     "670660": {
         "article_date_time": "2022-06-09, 19:53",
-        "article_title": "Как гуманитарии используют знания айтишников: Data-журналистика",
+        "article_title": "РљР°Рє РіСѓРјР°РЅРёС‚Р°СЂРёРё РёСЃРїРѕР»СЊР·СѓСЋС‚ Р·РЅР°РЅРёСЏ Р°Р№С‚РёС€РЅРёРєРѕРІ: Data-Р¶СѓСЂРЅР°Р»РёСЃС‚РёРєР°",
         "article_url": "https://habr.com/ru/company/netologyru/blog/670660/"
     },
     "670652": {
         "article_date_time": "2022-06-09, 18:42",
-        "article_title": "Реальные примеры применения Kafka в автопроме",
+        "article_title": "Р РµР°Р»СЊРЅС‹Рµ РїСЂРёРјРµСЂС‹ РїСЂРёРјРµРЅРµРЅРёСЏ Kafka РІ Р°РІС‚РѕРїСЂРѕРјРµ",
         "article_url": "https://habr.com/ru/company/southbridge/blog/670652/"
     },
     "670440": {
         "article_date_time": "2022-06-09, 16:56",
-        "article_title": "Учимся жить с Kafka без Zookeeper",
+        "article_title": "РЈС‡РёРјСЃСЏ Р¶РёС‚СЊ СЃ Kafka Р±РµР· Zookeeper",
         "article_url": "https://habr.com/ru/company/otus/blog/670440/"
     },
     "670560": {
         "article_date_time": "2022-06-09, 15:07",
-        "article_title": "Как эффективно оптимизировать нагрузку на кластер ClickHouse без сложных решений. Опыт исследовательской компании",
+        "article_title": "РљР°Рє СЌС„С„РµРєС‚РёРІРЅРѕ РѕРїС‚РёРјРёР·РёСЂРѕРІР°С‚СЊ РЅР°РіСЂСѓР·РєСѓ РЅР° РєР»Р°СЃС‚РµСЂ ClickHouse Р±РµР· СЃР»РѕР¶РЅС‹С… СЂРµС€РµРЅРёР№. РћРїС‹С‚ РёСЃСЃР»РµРґРѕРІР°С‚РµР»СЊСЃРєРѕР№ РєРѕРјРїР°РЅРёРё",
         "article_url": "https://habr.com/ru/company/mediascope/blog/670560/"
     },
     "670174": {
         "article_date_time": "2022-06-09, 14:29",
-        "article_title": "Gitlab за решеткой: синхронизация репозиториев за VPN средствами bash",
+        "article_title": "Gitlab Р·Р° СЂРµС€РµС‚РєРѕР№: СЃРёРЅС…СЂРѕРЅРёР·Р°С†РёСЏ СЂРµРїРѕР·РёС‚РѕСЂРёРµРІ Р·Р° VPN СЃСЂРµРґСЃС‚РІР°РјРё bash",
         "article_url": "https://habr.com/ru/post/670174/"
     },
     "670532": {
         "article_date_time": "2022-06-09, 12:44",
-        "article_title": "Как быстро создать обучающий датасет для задач обнаружения объектов YOLO с помощью Label Studio",
+        "article_title": "РљР°Рє Р±С‹СЃС‚СЂРѕ СЃРѕР·РґР°С‚СЊ РѕР±СѓС‡Р°СЋС‰РёР№ РґР°С‚Р°СЃРµС‚ РґР»СЏ Р·Р°РґР°С‡ РѕР±РЅР°СЂСѓР¶РµРЅРёСЏ РѕР±СЉРµРєС‚РѕРІ YOLO СЃ РїРѕРјРѕС‰СЊСЋ Label Studio",
         "article_url": "https://habr.com/ru/post/670532/"
     },
     "670528": {
         "article_date_time": "2022-06-09, 12:32",
-        "article_title": "Осваиваем китайский BI. Как построить дашборд в FineBI всего за 1 час",
+        "article_title": "РћСЃРІР°РёРІР°РµРј РєРёС‚Р°Р№СЃРєРёР№ BI. РљР°Рє РїРѕСЃС‚СЂРѕРёС‚СЊ РґР°С€Р±РѕСЂРґ РІ FineBI РІСЃРµРіРѕ Р·Р° 1 С‡Р°СЃ",
         "article_url": "https://habr.com/ru/post/670528/"
     },
     "670388": {
         "article_date_time": "2022-06-09, 12:17",
-        "article_title": "Облегчаем жизнь PostgreSQL таблице под нагрузкой",
+        "article_title": "РћР±Р»РµРіС‡Р°РµРј Р¶РёР·РЅСЊ PostgreSQL С‚Р°Р±Р»РёС†Рµ РїРѕРґ РЅР°РіСЂСѓР·РєРѕР№",
         "article_url": "https://habr.com/ru/company/karuna/blog/670388/"
     },
     "667806": {
         "article_date_time": "2022-06-09, 10:08",
-        "article_title": "Okteto Cloud – ещё один способ организации локальной разработки в Kubernetes",
+        "article_title": "Okteto Cloud вЂ“ РµС‰С‘ РѕРґРёРЅ СЃРїРѕСЃРѕР± РѕСЂРіР°РЅРёР·Р°С†РёРё Р»РѕРєР°Р»СЊРЅРѕР№ СЂР°Р·СЂР°Р±РѕС‚РєРё РІ Kubernetes",
         "article_url": "https://habr.com/ru/company/flant/blog/667806/"
     },
     "670492": {
         "article_date_time": "2022-06-09, 08:57",
-        "article_title": "20 фактов кибербеза",
+        "article_title": "20 С„Р°РєС‚РѕРІ РєРёР±РµСЂР±РµР·Р°",
         "article_url": "https://habr.com/ru/post/670492/"
     },
     "670476": {
         "article_date_time": "2022-06-09, 00:46",
-        "article_title": "Собственный Dropbox на ownCloud. Резервное копирование данных со смартфона. Серверная часть",
+        "article_title": "РЎРѕР±СЃС‚РІРµРЅРЅС‹Р№ Dropbox РЅР° ownCloud. Р РµР·РµСЂРІРЅРѕРµ РєРѕРїРёСЂРѕРІР°РЅРёРµ РґР°РЅРЅС‹С… СЃРѕ СЃРјР°СЂС‚С„РѕРЅР°. РЎРµСЂРІРµСЂРЅР°СЏ С‡Р°СЃС‚СЊ",
         "article_url": "https://habr.com/ru/post/670476/"
     },
     "670472": {
         "article_date_time": "2022-06-09, 00:19",
-        "article_title": "Архитектура платформы для проектирования интерактивного видеоконтента",
+        "article_title": "РђСЂС…РёС‚РµРєС‚СѓСЂР° РїР»Р°С‚С„РѕСЂРјС‹ РґР»СЏ РїСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёСЏ РёРЅС‚РµСЂР°РєС‚РёРІРЅРѕРіРѕ РІРёРґРµРѕРєРѕРЅС‚РµРЅС‚Р°",
         "article_url": "https://habr.com/ru/post/670472/"
     },
     "670422": {
         "article_date_time": "2022-06-08, 19:09",
-        "article_title": "Continuous Testing в CI/CD: что это, зачем нужно и как работает",
+        "article_title": "Continuous Testing РІ CI/CD: С‡С‚Рѕ СЌС‚Рѕ, Р·Р°С‡РµРј РЅСѓР¶РЅРѕ Рё РєР°Рє СЂР°Р±РѕС‚Р°РµС‚",
         "article_url": "https://habr.com/ru/company/southbridge/blog/670422/"
     },
     "670312": {
         "article_date_time": "2022-06-08, 15:53",
-        "article_title": "Тест на доверчивость: зачем мы отправляем фишинг-сообщения сотрудникам",
+        "article_title": "РўРµСЃС‚ РЅР° РґРѕРІРµСЂС‡РёРІРѕСЃС‚СЊ: Р·Р°С‡РµРј РјС‹ РѕС‚РїСЂР°РІР»СЏРµРј С„РёС€РёРЅРі-СЃРѕРѕР±С‰РµРЅРёСЏ СЃРѕС‚СЂСѓРґРЅРёРєР°Рј",
         "article_url": "https://habr.com/ru/company/selectel/blog/670312/"
     },
     "670290": {
         "article_date_time": "2022-06-08, 15:51",
-        "article_title": "Лекарство от забывчивости: как я получал доступ к Node на OpenShift без ssh-ключа",
+        "article_title": "Р›РµРєР°СЂСЃС‚РІРѕ РѕС‚ Р·Р°Р±С‹РІС‡РёРІРѕСЃС‚Рё: РєР°Рє СЏ РїРѕР»СѓС‡Р°Р» РґРѕСЃС‚СѓРї Рє Node РЅР° OpenShift Р±РµР· ssh-РєР»СЋС‡Р°",
         "article_url": "https://habr.com/ru/company/innotech/blog/670290/"
     },
     "669788": {
         "article_date_time": "2022-06-08, 15:22",
-        "article_title": "Gatekeeper и его роль в обеспечении безопасности кластеров Kubernetes",
+        "article_title": "Gatekeeper Рё РµРіРѕ СЂРѕР»СЊ РІ РѕР±РµСЃРїРµС‡РµРЅРёРё Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё РєР»Р°СЃС‚РµСЂРѕРІ Kubernetes",
         "article_url": "https://habr.com/ru/company/vk/blog/669788/"
     },
     "670314": {
         "article_date_time": "2022-06-08, 14:40",
-        "article_title": "Как мы парсили информацию об уязвимостях",
+        "article_title": "РљР°Рє РјС‹ РїР°СЂСЃРёР»Рё РёРЅС„РѕСЂРјР°С†РёСЋ РѕР± СѓСЏР·РІРёРјРѕСЃС‚СЏС…",
         "article_url": "https://habr.com/ru/post/670314/"
     },
     "670308": {
         "article_date_time": "2022-06-08, 13:48",
-        "article_title": "Защита от DDoS и web-атак: нюансы подключения из облака",
+        "article_title": "Р—Р°С‰РёС‚Р° РѕС‚ DDoS Рё web-Р°С‚Р°Рє: РЅСЋР°РЅСЃС‹ РїРѕРґРєР»СЋС‡РµРЅРёСЏ РёР· РѕР±Р»Р°РєР°",
         "article_url": "https://habr.com/ru/company/oxygendc/blog/670308/"
     },
     "670284": {
         "article_date_time": "2022-06-08, 12:37",
-        "article_title": "Используем внешний накопитель для Time Machine",
+        "article_title": "РСЃРїРѕР»СЊР·СѓРµРј РІРЅРµС€РЅРёР№ РЅР°РєРѕРїРёС‚РµР»СЊ РґР»СЏ Time Machine",
         "article_url": "https://habr.com/ru/post/670284/"
     },
     "670280": {
         "article_date_time": "2022-06-08, 12:28",
-        "article_title": "Ускоренное импортозамещение или как разворачивать Linux-дистрибутив с помощью SCCM в распределённой корпоративной сети",
+        "article_title": "РЈСЃРєРѕСЂРµРЅРЅРѕРµ РёРјРїРѕСЂС‚РѕР·Р°РјРµС‰РµРЅРёРµ РёР»Рё РєР°Рє СЂР°Р·РІРѕСЂР°С‡РёРІР°С‚СЊ Linux-РґРёСЃС‚СЂРёР±СѓС‚РёРІ СЃ РїРѕРјРѕС‰СЊСЋ SCCM РІ СЂР°СЃРїСЂРµРґРµР»С‘РЅРЅРѕР№ РєРѕСЂРїРѕСЂР°С‚РёРІРЅРѕР№ СЃРµС‚Рё",
         "article_url": "https://habr.com/ru/company/mvideo/blog/670280/"
     }
 }
