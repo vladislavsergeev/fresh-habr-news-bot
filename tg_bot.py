@@ -45,7 +45,7 @@ async def on_shutdown(dispatcher):
 
 @dp.message_handler(commands="start")
 async def start(message: types.Message):
-    start_buttons = ["Все новости", "Последние пять новостей", "Обновить список новостей"]
+    start_buttons = ["Все новости", "Последние пять новостей", "Обновить новости"]
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
     keyboard.add(*start_buttons)
 
