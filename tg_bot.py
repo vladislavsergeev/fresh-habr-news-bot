@@ -76,7 +76,7 @@ async def get_last_five_news(message: types.Message):
         await message.answer(news)
 
 
-@dp.message_handler(Text(equals="Обновить список новостей"))
+@dp.message_handler(Text(equals="Обновить новости"))
 async def get_fresh_news(message: types.Message):
     fresh_news = check_news_update()
 
@@ -85,7 +85,7 @@ async def get_fresh_news(message: types.Message):
             news = f"{hbold(v['article_date_time'])}\n\n" \
                    f"{hlink(v['article_title'], v['article_url'])}\n\n"
 
-            # await message.answer(news)
+        await message.answer("Список новостей успешно обновлён.")
 
 
 if __name__ == '__main__':
